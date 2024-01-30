@@ -71,7 +71,7 @@ section > div {
 }
 @media only screen and (max-width: 600px) {
     section {
-        width: 80%;
+        width: auto;
     }
 
     section > div {
