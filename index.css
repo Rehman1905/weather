@@ -44,8 +44,8 @@ section {
     padding: 20px;
     border-radius: 5px;
     background-color: #f9f9f9;
-    width: 40%;
-    margin-top: 20px;
+    width: 50%;
+    margin-top: 40px;
 }
 
 section > div {
@@ -71,7 +71,7 @@ section > div {
 }
 @media only screen and (max-width: 600px) {
     section {
-        width: auto;
+        width: 70%;
     }
 
     section > div {
